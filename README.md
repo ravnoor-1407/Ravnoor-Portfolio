@@ -23,7 +23,7 @@ http://www.linkedin.com/in/ravnoor-kaur-rk2007
 
 The landing section introduces my professional profile, current career focus, and availability for internships and opportunities.
 
-![Portfolio Hero Section](Screenshots/01-hero.png)
+![Portfolio Hero Section](Screenshots/hero.png)
 
 ---
 
@@ -31,7 +31,7 @@ The landing section introduces my professional profile, current career focus, an
 
 The About section provides an overview of my academic background, technical interests, development experience, and professional contact information.
 
-![About Me Section](Screenshots/02-about.png)
+![About Me Section](Screenshots/about.png)
 
 ---
 
@@ -39,7 +39,7 @@ The About section provides an overview of my academic background, technical inte
 
 The Projects section highlights selected development work along with the technologies used and key implementation details.
 
-![Featured Projects](Screenshots/03-projects.png)
+![Featured Projects](Screenshots/projects.png)
 
 ---
 
